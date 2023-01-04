@@ -6,7 +6,7 @@
 All the orders are mostly between 0 & 20 euros.
 
 <div id="header" align="center">
-<img src='src/total_order_editors.png' width="800" height="200">
+<img src='src/total_order_editor.png' width="800" height="200">
 </div>
 
 Netflix and Supercell represent the largest market share.
@@ -37,7 +37,7 @@ lose interest during the second month and the month
 after.
 
 <div id="header" align="center">
-<img src='src/Supercell.png' width="800" height="200">
+<img src='src/Supercell_app.png' width="800" height="200">
 </div>
 
 During the first month, 2020 confinement had a
